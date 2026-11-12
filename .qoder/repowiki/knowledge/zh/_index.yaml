@@ -1,0 +1,42 @@
+# 知识卡导出索引文件
+schema_version: 1
+locale: zh-CN
+branch: AltoroJ-3.2
+nodes_managed: true
+exported_at: "2026-11-12T22:10:57Z"
+modules:
+    "":
+        dir_name: AltoroJ 演示银行应用（根工程）
+        title: AltoroJ 演示银行应用（根工程）
+        scope:
+            - README.md
+            - .gitignore
+            - .classpath
+            - .project
+            - Importing AltoroJ into Eclipse from GitHub.md
+            - build.gradle
+            - LICENSE
+        source_files: []
+        children:
+            - java_backend
+            - jsp_frontend
+        depends_on: []
+        related_to: []
+    java_backend:
+        dir_name: AltoroJ 银行应用后端（Servlet + JAX-RS）
+        title: AltoroJ 银行应用后端（Servlet + JAX-RS）
+        scope:
+            - src/com/ibm/security/appscan/altoromutual/
+        source_files: []
+        children: []
+        depends_on: []
+        related_to: []
+    jsp_frontend:
+        dir_name: AltoroJ JSP 前端页面与静态资源
+        title: AltoroJ JSP 前端页面与静态资源
+        scope:
+            - WebContent/
+        source_files: []
+        children: []
+        depends_on: []
+        related_to: []

@@ -1,0 +1,8 @@
+schema_version: 1
+module_path: java_backend
+title: AltoroJ 银行应用后端（Servlet + JAX-RS）
+scope:
+    - src/com/ibm/security/appscan/altoromutual/
+source_files: []
+depends_on: []
+related_to: []

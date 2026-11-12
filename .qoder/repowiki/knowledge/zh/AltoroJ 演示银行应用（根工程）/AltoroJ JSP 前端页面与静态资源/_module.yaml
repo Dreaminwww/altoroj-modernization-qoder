@@ -1,0 +1,8 @@
+schema_version: 1
+module_path: jsp_frontend
+title: AltoroJ JSP 前端页面与静态资源
+scope:
+    - WebContent/
+source_files: []
+depends_on: []
+related_to: []

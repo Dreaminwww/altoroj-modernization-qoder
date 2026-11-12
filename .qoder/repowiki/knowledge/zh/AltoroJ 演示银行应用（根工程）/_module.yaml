@@ -1,0 +1,14 @@
+schema_version: 1
+module_path: ""
+title: AltoroJ 演示银行应用（根工程）
+scope:
+    - README.md
+    - .gitignore
+    - .classpath
+    - .project
+    - Importing AltoroJ into Eclipse from GitHub.md
+    - build.gradle
+    - LICENSE
+source_files: []
+depends_on: []
+related_to: []
